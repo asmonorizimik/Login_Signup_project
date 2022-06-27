@@ -1,0 +1,48 @@
+{
+    "user": [
+        {
+            "name": "manory",
+            "password": "z!m!K123",
+            "profile": {
+                "dob:  ": "12",
+                "gender:  ": "f",
+                "address:  ": "d",
+                "designation:  ": "d",
+                "bio:  ": "d"
+            }
+        },
+        {
+            "name": "munch",
+            "password": "Awungsh!12",
+            "profile": {
+                "dob:  ": "1",
+                "gender:  ": "m",
+                "address:  ": "d",
+                "designation:  ": "d",
+                "bio:  ": "d"
+            }
+        },
+        {
+            "name": "soso",
+            "password": "Soso123#",
+            "profile": {
+                "dob:  ": "1223",
+                "gender:  ": "f",
+                "address:  ": "asdfgh",
+                "designation:  ": "ewet",
+                "bio:  ": "asdfgf"
+            }
+        },
+        {
+            "name": "semmi",
+            "password": "Semm!123",
+            "profile": {
+                "dob:  ": "1223",
+                "gender:  ": "f",
+                "address:  ": "qwert",
+                "designation:  ": "qwert",
+                "bio:  ": "jsdhjhiewfo"
+            }
+        }
+    ]
+}
